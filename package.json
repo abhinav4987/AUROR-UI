@@ -1,8 +1,9 @@
 {
-  "version": "0.1.0.1",
+  "version": "0.1.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "documentation": "https://auror-ui-documentation.netlify.app/",
   "files": [
     "dist",
     "src"
@@ -40,6 +41,7 @@
   "name": "aurorui",
   "author": "abhinav4987",
   "module": "dist/aurorui.esm.js",
+  "description": "A react component library",
   "size-limit": [
     {
       "path": "dist/aurorui.cjs.production.min.js",
