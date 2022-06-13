@@ -20,7 +20,8 @@
     "analyze": "size-limit --why",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "build-storybook-docs": "build-storybook --docs"
+    "build-storybook-docs": "build-storybook --docs",
+    "chromatic": "npx chromatic --project-token="
   },
   "peerDependencies": {
     "react": ">=16"
